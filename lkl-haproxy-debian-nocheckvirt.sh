@@ -187,7 +187,7 @@ Environment=LKL_HIJACK_NET_GATEWAY=10.0.0.1
 Environment=LKL_HIJACK_NET_IPV6=fd00::2
 Environment=LKL_HIJACK_NET_GATEWAY6=fd00::1
 Environment=LKL_HIJACK_NET_NETMASK6_LEN=64
-Environment=LKL_HIJACK_BOOT_CMDLINE=mem=256M
+Environment=LKL_HIJACK_BOOT_CMDLINE=mem=128M
 
 ExecStart=$(which haproxy) -f /etc/lklhaproxy/haproxy.cfg
 Restart=always
