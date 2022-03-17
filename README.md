@@ -22,7 +22,7 @@
 支持 Alpine / Debian / Ubuntu / CentOS
 
 ```bash
-wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy.sh && bash lkl-haproxy.sh
+wget --no-cache -O lkl-haproxy.sh https://github.com/ylx2016/lkl-haproxy/raw/master/lkl-haproxy.sh && bash lkl-haproxy.sh
 ```
 
 ## Linux Kernel Library
